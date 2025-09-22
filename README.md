@@ -20,6 +20,7 @@ It is an **attention-driven deep learning system** for breast cancer detection o
 ---
 
 ## Running the App - - 
+please read requirements.txt . Intall all necessary Python libraries first.
 
 From the project root:
 
