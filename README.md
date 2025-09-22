@@ -20,13 +20,13 @@ It is an **attention-driven deep learning system** for breast cancer detection o
 ---
 
 ## Running the App - - 
-please read requirements.txt . Intall all necessary Python libraries first.
+please read requirements.txt . Install all necessary Python libraries first.
 
 From the project root:
 
 streamlit run app/app.py
 
-Then, The app will launch in your browser.
+Then, the app will launch in your browser.
 
 
 ## Disclaimer
